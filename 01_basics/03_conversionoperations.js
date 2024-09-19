@@ -11,6 +11,10 @@ let num =1 ;
 let value1 = Boolean(num);
 console.log(value1);
 console.log(typeof value1);
+let str = "supriya";
+let convert = Number(str);
+console.log(convert);
+console.log(typeof convert);
 
 
 
