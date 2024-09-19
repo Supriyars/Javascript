@@ -15,6 +15,7 @@ let str = "supriya";
 let convert = Number(str);
 console.log(convert);
 console.log(typeof convert);
+let val2;
 
 
 
