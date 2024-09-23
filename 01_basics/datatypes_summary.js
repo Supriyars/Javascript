@@ -24,6 +24,9 @@ let student = {
     ismyFavourite:true
 
 }; //Object declaration
+// **********************************************//
+// stack(primitive),Heap(Non-primitive)
+let myYoutubename = "Apna College";
 
 
 
